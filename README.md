@@ -1,1 +1,1 @@
-# Using github pages to host a simple contact pages.
+# Using github pages to host a simple contact page.
