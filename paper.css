@@ -1,0 +1,65 @@
+body
+ {
+
+     background-color:black;
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
+#head1
+{
+font-size: 550%;
+	color: white;
+	font-family: font1;
+	margin-top: 30px;
+  margin-left: 18px;
+  text-align: left;
+
+
+ }
+
+
+
+ #p1 {
+font-size: 280%;
+margin-left: 30px;
+     font-weight: bolder;
+     color: white;
+     font-family: Note_this;
+     margin-top: 200px;
+      padding: 10px;
+ }
+
+ #p2 {
+font-size: 390%;
+margin-left: 120px;
+     font-weight: bolder;
+     color: white;
+     font-family: Note_this;
+     margin-top: 70px;
+      padding: 10px;
+ }
+
+
+/* @font-face {
+    font-family: Mrb;
+    src: url('MRB.ttf');
+}
+*/
+
+@font-face {
+    font-family: Note_this;
+    src: url('ashcanbb_reg.ttf');
+}
+
+@font-face {
+    font-family: font1;
+    src: url('ashcanbb_bold.ttf');
+}
