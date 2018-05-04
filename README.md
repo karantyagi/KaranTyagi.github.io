@@ -1,3 +1,3 @@
 # `personal website hosted using github pages `
 
-## https://karantyagi.github.io/
+## [karantyagi.github.io/](https://karantyagi.github.io)
