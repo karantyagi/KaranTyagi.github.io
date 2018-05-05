@@ -1,3 +1,3 @@
 # `personal website hosted using github pages `
 
-## [karantyagi.github.io/](https://karantyagi.github.io){:target="_blank"}
+### [karantyagi.github.io/](https://karantyagi.github.io)
